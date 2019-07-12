@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <group
+        android:id="@+id/drawer_view"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_all_dreams"
+            android:icon="@android:drawable/checkbox_off_background"
+            android:title="@string/nav_all_dreams" />
+        <item
+            android:id="@+id/nav_active_dreams"
+            android:icon="@android:drawable/checkbox_off_background"
+            android:title="@string/nav_active_dreams" />
+        <item
+            android:id="@+id/nav_realized_dreams"
+            android:icon="@android:drawable/checkbox_off_background"
+            android:title="@string/nav_realized_dreams" />
+        <item
+            android:id="@+id/nav_deferred_dreams"
+            android:icon="@android:drawable/checkbox_off_background"
+            android:title="@string/nav_deferred_dreams" />
+    </group>
+</menu>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">DreamCatcher</string>
+    <string name="dream_title_label">Title</string>
+    <string name="dream_title">Enter a title for the dream.</string>
+    <string name="dream_realized">Realized</string>
+    <string name="dream_deferred">Deferred</string>
+    <string name="dream_details_label">DREAM JOURNEY</string>
+    <string name="dream_entry_0_button">DREAM REVEALED</string>
+    <string name="dream_entry_4_button">DREAM DONE</string>
+
+    <string name="new_dream">New Dream</string>
+    <string name="show_subtitle">Show Subtitle</string>
+    <string name="hide_subtitle">Hide Subtitle</string>
+    <string name="subtitle_format">%1$d dreams</string>
+    <string name="dialog_hint">Enter a new comment</string>
+    <string name="share_dream">Share Dream</string>
+    <string name="take_dream_photo">Take Dream Photo</string>
+    <string name="send_report">Send Report</string>
+    <string name="nav_all_dreams">All Dreams</string>
+    <string name="nav_active_dreams">Active Dreams</string>
+    <string name="nav_realized_dreams">Realized Dreams</string>
+    <string name="nav_deferred_dreams">Deferred Dreams</string>
+
+</resources>
