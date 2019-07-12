@@ -1,0 +1,146 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+MERGED from [com.android.support:design:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/601214c068160699c4582c2086a6aa78/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/05436ca1a7c66c9ca52b8ba05b3def16/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2c4feef0e1ad0d418ab1d7891fa1655b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21ff3ced9b183643993d3b3822b152df/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/10d425872c7edcc1d400a3b2cb53ae8b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/509a0fa6d6e2fff1818f53488d6cfb58/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c95f3893c6b621ea626e7b0b7daafaac/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/728b7f0e3b10afd324d343a711e5a823/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/42858d2408c7c75c30cd1a33d3ebc8b6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8ba54e50dd9e9da480dd2a8df3d38cb9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2ee8ef7082fc060ecb579ee3eaddfd8c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/df185dfc8fdce270568dfef1b25eb331/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9d147cfe99f3926927284d601367daa2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/84f064a19e91009ff78fcfdcabdceec7/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f013cce854cdb10d1ad838c3bf3463d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7f463d017dad498bda368445391def1f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12965cd2cd90d5b18e1f8f3b7bf507d3/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:1-40:12
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:5:5-7:11
+	android:required
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:6:9-33
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:5:19-57
+application
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:9:5-38:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21ff3ced9b183643993d3b3822b152df/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21ff3ced9b183643993d3b3822b152df/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:15:9-40
+activity#edu.vt.cs.cs5254.dreamcatcher.DreamListActivity
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:17:9-22:20
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:17:19-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:18:13-21:29
+action#android.intent.action.MAIN
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:20:27-74
+activity#edu.vt.cs.cs5254.dreamcatcher.DreamActivity
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:24:9-26:20
+	android:parentActivityName
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:25:13-60
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:24:19-48
+provider#android.support.v4.content.FileProvider
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:28:9-36:20
+	android:grantUriPermissions
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:32:13-47
+	android:authorities
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:30:13-77
+	android:exported
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:29:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:33:13-35:48
+	android:resource
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:35:17-46
+	android:name
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml:34:17-67
+uses-sdk
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/601214c068160699c4582c2086a6aa78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/601214c068160699c4582c2086a6aa78/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/05436ca1a7c66c9ca52b8ba05b3def16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/05436ca1a7c66c9ca52b8ba05b3def16/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2c4feef0e1ad0d418ab1d7891fa1655b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/2c4feef0e1ad0d418ab1d7891fa1655b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21ff3ced9b183643993d3b3822b152df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/21ff3ced9b183643993d3b3822b152df/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/10d425872c7edcc1d400a3b2cb53ae8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/10d425872c7edcc1d400a3b2cb53ae8b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/509a0fa6d6e2fff1818f53488d6cfb58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/509a0fa6d6e2fff1818f53488d6cfb58/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c95f3893c6b621ea626e7b0b7daafaac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/c95f3893c6b621ea626e7b0b7daafaac/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/728b7f0e3b10afd324d343a711e5a823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/728b7f0e3b10afd324d343a711e5a823/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/42858d2408c7c75c30cd1a33d3ebc8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/42858d2408c7c75c30cd1a33d3ebc8b6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8ba54e50dd9e9da480dd2a8df3d38cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/8ba54e50dd9e9da480dd2a8df3d38cb9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2ee8ef7082fc060ecb579ee3eaddfd8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/2ee8ef7082fc060ecb579ee3eaddfd8c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/df185dfc8fdce270568dfef1b25eb331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/df185dfc8fdce270568dfef1b25eb331/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9d147cfe99f3926927284d601367daa2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/9d147cfe99f3926927284d601367daa2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/84f064a19e91009ff78fcfdcabdceec7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/84f064a19e91009ff78fcfdcabdceec7/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f013cce854cdb10d1ad838c3bf3463d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/5f013cce854cdb10d1ad838c3bf3463d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7f463d017dad498bda368445391def1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/7f463d017dad498bda368445391def1f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12965cd2cd90d5b18e1f8f3b7bf507d3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/christinahill/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/12965cd2cd90d5b18e1f8f3b7bf507d3/AndroidManifest.xml:20:5-44
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+		ADDED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/christinahill/AndroidStudioProjects/DreamCatcher_P3/app/src/main/AndroidManifest.xml
